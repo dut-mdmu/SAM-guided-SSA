@@ -17,9 +17,9 @@ parser.add_argument('--work_dir', type=str, default='work_dir')
 parser.add_argument('--task_name', type=str, default='surgical_test1')
 #load data
 parser.add_argument('--data_root', type = str,
-                    default='/media/zyj/data/zyj/2025/医学评价模型/项目整合/Surgical-Skill-Assessment-via-Video-Semantic-Aggregation/data/jigsaws/Suturing/Suturing_160x120')
+                    default='/media/zyj/data/zyj/2025/医学评价模型/项目整合/Skill_Assessment/data/jigsaws/Suturing/Suturing_160x120')
 parser.add_argument('--result_root', type = str,
-                    default='/media/zyj/data/zyj/2025/医学评价模型/项目整合/Surgical-Skill-Assessment-via-Video-Semantic-Aggregation/data/jigsaws/Suturing/Suturing_160x120-seg')
+                    default='/media/zyj/data/zyj/2025/医学评价模型/项目整合/Skill_Assessment/data/jigsaws/Suturing/Suturing_160x120-seg')
 
 parser.add_argument('--image_size', type=int, default=1024)
 parser.add_argument('--slice_length', type=int, default=15)
