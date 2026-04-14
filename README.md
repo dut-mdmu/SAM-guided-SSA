@@ -14,7 +14,7 @@
 
 ### SAM2 Model & Checkpoints
 
-​-**Path：** `Skill Assessment DatasetSAM2_Surgical/...`
+​-**Path:** `Skill Assessment DatasetSAM2_Surgical/...`
 
 ​-**Contents:** SAM2 model implementation & Fine-tuned checkpoints
 
