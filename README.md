@@ -24,7 +24,7 @@
 
 ​-**Path:** `SAM2_Surgical/` 
 
-​-**Download:**  https://drive.google.com/file/d/1iiLUeqbMsyresXPHtt4bdiv7PDytUqK0/view?usp=drive_link
+​-**Download:** https://drive.google.com/file/d/1iW-2yUxpMxBpJ6K7sIiTbyASP6bpOm05/view?usp=drive_link
 
 ## **3. Notes**
 
