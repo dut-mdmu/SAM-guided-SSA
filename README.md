@@ -8,28 +8,30 @@
 
 ### SAM2 Dataset
 
-​	**Path:** `SAM2_Surgical/datasets`
+​-**Path:** `SAM2_Surgical/datasets`
 
-​	**Download:** https://drive.google.com/file/d/1G8C2s1SI6z0QM9IQLWkI19dSuoW2roYN/view?usp=drive_link
+​-**Download:** https://drive.google.com/file/d/1G8C2s1SI6z0QM9IQLWkI19dSuoW2roYN/view?usp=drive_link
 
 ### SAM2 Model & Checkpoints
 
-​	**Path：** `Skill Assessment DatasetSAM2_Surgical/...`
+​-**Path：** `Skill Assessment DatasetSAM2_Surgical/...`
 
-​	**Contents:** SAM2 model implementation & Fine-tuned checkpoints
+​-**Contents:** SAM2 model implementation & Fine-tuned checkpoints
 
-​	**Download:** https://drive.google.com/file/d/1iiLUeqbMsyresXPHtt4bdiv7PDytUqK0/view?usp=drive_link
+​-**Download:** https://drive.google.com/file/d/1iiLUeqbMsyresXPHtt4bdiv7PDytUqK0/view?usp=drive_link
 
 ### Skill Assessment Dataset
 
-​	**Path:** `SAM2_Surgical/` 
+​-**Path:** `SAM2_Surgical/` 
 
-​	**Download:**  https://drive.google.com/file/d/1iiLUeqbMsyresXPHtt4bdiv7PDytUqK0/view?usp=drive_link
+​-**Download:**  https://drive.google.com/file/d/1iiLUeqbMsyresXPHtt4bdiv7PDytUqK0/view?usp=drive_link
 
 ## **3. Notes**
 
-​	Ensure all datasets are placed in the correct directory structure before running the code.
+​-Ensure all datasets are placed in the correct directory structure before running the code.
 
-​	Pretrained weights are required for both SAM2 and the skill assessment model.
+​-Pretrained weights are required for both SAM2 and the skill assessment model.
 
-​	The framework is modular and can be extended to additional surgical tools by modifying text prompts.
+​-The framework is modular and can be extended to additional surgical tools by modifying text prompts.
+
+
