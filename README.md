@@ -32,7 +32,7 @@
   - Fine-tuned checkpoints
 - **Download:**  https://drive.google.com/file/d/1iiLUeqbMsyresXPHtt4bdiv7PDytUqK0/view?usp=drive_link
 
-## **3. Notes**
+## ** Notes **
 
 - Ensure all datasets are placed in the correct directory structure before running the code.
 - Pretrained weights are required for both SAM2 and the skill assessment model.
