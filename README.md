@@ -22,7 +22,7 @@
 
 ### Skill Assessment Dataset
 
-​-**Path:** `SAM2_Surgical/` 
+​-**Path:** `SAM2_Surgical/data` 
 
 ​-**Download:** https://drive.google.com/file/d/1iW-2yUxpMxBpJ6K7sIiTbyASP6bpOm05/view?usp=drive_link
 
