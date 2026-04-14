@@ -6,12 +6,12 @@
 
 ## Code Running
 
-#### SAM2 Dataset
+### SAM2 Dataset
 
 - **Path:** `SAM2_Surgical/datasets`
 - **Download:** https://drive.google.com/file/d/1G8C2s1SI6z0QM9IQLWkI19dSuoW2roYN/view?usp=drive_link
 
-#### SAM2 Model & Checkpoints
+### SAM2 Model & Checkpoints
 
 **Path：**
 
@@ -24,7 +24,7 @@
 
 **Download:** https://drive.google.com/file/d/1iiLUeqbMsyresXPHtt4bdiv7PDytUqK0/view?usp=drive_link
 
-#### Skill Assessment Dataset
+### Skill Assessment Dataset
 
 - **Path:** `SAM2_Surgical/data
 - **Contents:**
