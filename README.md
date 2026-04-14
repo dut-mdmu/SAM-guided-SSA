@@ -1,6 +1,6 @@
 # SAS: SAM-ASSISTED SEMANTIC LEARNING FOR SURGICAL SKILL ASSESSMENT
 
-## 1.Abstract
+## Abstract
 
 ​	Surgical skill assessment is essential for training and evaluation, yet video-based methods often fail to concentrate on instruments and operative fields, limiting accuracy in complex scenes. We propose SAS that couples SAM-assisted surgical semantics with mask-guided context–semantic fusion. First, a subset of videos is annotated to fine-tune SAM2, and CLIP text prompts generate reliable masks of instruments and the operative field with minimal supervision. These masks guide feature extraction via masked normalization and dual attentions, producing task-aware fused representations that better capture instrument–tissue interactions. The fused features are then processed by a temporal modeling and regression head to predict skill scores, and the prompt set can be readily extended to additional tools. Experiments on JIGSAWS show consistent gains over strong baselines across most tasks and metrics, with ablations confirming the contributions of both components. 
 
